@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sri Sarada Engineering </title>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <div class="nav">
+        <input type="checkbox" id="nav-check">
+        <div class="nav-header">
+          <div class="nav-title">
+            Sri Sarada Engineering
+          </div>
+        </div>
+        <div class="nav-btn">
+          <label for="nav-check">
+            <span></span>
+            <span></span>
+            <span></span>
+          </label>
+        </div>
+        
+        <div class="nav-links">
+            <ul>
+          <li><a href="https://srisaradaengineering.ga" target="_blank">Home</a></li>
+          <li><a href="#" target="_blank">About</a></li>
+          <li><a href="#" target="_blank">Services</a></li>
+          <li><a href="#" target="_blank">Visit Us</a></li>
+          <li><a href="#" target="_blank">Contact</a></li>
+          <a class="icon">
+            <i class="fa fa-twitter"></i>
+            <i class="fa fa-linkedin"></i>
+            <i class="fa fa-youtube"></i>
+
+          </a>
+            </ul>
+        </div>
+      </div>
+</body>
+</html>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> About Us </title>
+<body>
+    <style>
+        .items{
+            color:red ;
+        }
+   .header {
+       text-align:center ;
+       color:navy ;
+   }
+       .aboutusheader{
+           text-align:center ; 
+           font-family:sans-serif ;
+   }
+   .aboutus{
+       font-family:Montserrat ;
+       text-align:center ;
+       color:red ;
+   }
+        </style>
+<div class="header">
+<h1> Sri Sharada Engineering </h1>
+<p> # A2-Cooperative Industrial Estate ,Balanagar,Hyderabad,500037 <p>
+</div>
+<div class="aboutusheader">
+    <h1> About US </h1>
+    </div>
+    <div class="aboutus">
+        <h2> We Sri Sarada Engineering are supplier of quality range of Gears and Gear Boxes, Sponge Iron & Cement Plant Spare Parts, Rollers, Screw Conveyors, Shafts, and Spring Plates.we manufacture only sponge iron spare parts for rotary kiln.and cement plants spare parts like pulley's and rollers and idlers and spring plates. We use quality material in manufacturing of our range sourced from the reliable vendors of the market. Our products confirm with the norms prescribed by the concerned authorities and do not carry flaws. We ensure long service life and optimum functionality of our range. Detail analysis over the market trends is carried out before we start the manufacturing process, in order to make sure that our products serve the clients in an appropriate manner. We are Established in 2004 </h2>
+        </div>
+        
+        <div class="aboutusheader">
+    <h1>Products</h1>
+    </div>
+
+<img src="images/001.JPG" width="500px" height="400px"> 
+<img src="images/002.JPG" width="500px" height="400px"> 
+<img src="images/003.JPG" width="500px" height="400px"> 
+<img src="images/004.JPG" width="500px" height="400px"> 
+<img src="images/005.jpg" width="500px" height="400px"> 
+<img src="images/006.JPG" width="500px" height="400px"> 
+<img src="images/007.JPG" width="500px" height="400px"> 
+<img src="images/008.JPG" width="500px" height="400px"> 
+<img src="images/009.JPG" width="500px" height="400px"> 
+<img src="images/010.JPG" width="500px" height="400px"> 
+<img src="images/011.jpg" width="500px" height="400px"> 
+<img src="images/012.jpg" width="500px" height="400px"> 
+<img src="images/013.jpeg" width="500px" height="400px"> 
+<img src="images/014.jpg" width="500px" height="400px"> 
+<img src="images/015.jpg" width="500px" height="400px"> 
+<img src="images/016.jpg" width="500px" height="400px"> 
+<br>
+<br>
+<div class="footer">
+<footer><b>&#169; Copyright 2022 All Rights Reserved Sri Sarada Engineering </b></footer>
+</div>
+<br>
+<br>
+
+<style>
+    .footer{
+          
+  background-color: orange; 
+  position: center;
+ text-align:center ;
+ left:1px
+ color:black;
+    }
+    </style>
+</body>
+</html>
