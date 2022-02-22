@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8">
+   < <title> About Us</title>
+    <link rel="stylesheet" href="aboutus.css">
+    <!-- Boxicons CDN Link -->
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   </head>
+<body>
+  <nav>
+    <div class="navbar">
+      <i class='bx bx-menu'></i>
+      <div class="logo"><a href="/">Sri Sarada Engineering</a></div>
+      <div class="nav-links">
+        <div class="sidebar-logo">
+          <i class='bx bx-x' ></i>
+                    <span class="logo-name">Sri Sarada Engineering</span>
+        </div>
+        <ul class="links">
+          <li><a href="/">HOME</a></li>
+          <li>
+            <a href="#">FAQ</a>
+            <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+            <ul class="htmlCss-sub-menu sub-menu">
+              <li><a href="#">Website Down ?</a></li>
+              <li><a href="#">Enquiry</a></li>
+              <li><a href="#">Company Location</a></li>
+              <li class="more">
+                <span><a href="#">More</a>
+                <i class='bx bxs-chevron-right arrow more-arrow'></i>
+              </span>
+                <ul class="more-sub-menu sub-menu">
+                  <li><a href="#">Is Company Visit Availiable</a></li>
+                  <li><a href="#">Contact Number</a></li>
+               
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <a href="#">STATUS</a>
+            <i class='bx bxs-chevron-down js-arrow arrow '></i>
+            <ul class="js-sub-menu sub-menu">
+              <li><a href="https://srisharadaengineering.statuspage.io/">Check Status Here</a></li>
+              <li><a href="https://srisharadaengineering.statuspage.io/incidents/hww899bygln4">Maintenanaces</a></li>
+              <li><a href="https://srisharadaengineering.statuspage.io/history">Issues</a></li>
+             
+            </ul>
+          </li>
+          <li><a href="https://srisaradaengineering.ga/About-Us">ABOUT US</a></li>
+          <li><a href="https://srisaradaengineering.ga/Contact-Us">CONTACT US</a></li>
+        </ul>
+      </div>
+      <div class="search-box">
+        <i class='bx bx-search'></i>
+        <div class="input-box">
+          <input type="text" placeholder="Search...">
+        </div>
+      </div>
+    </div>
+  </nav>
+  <script src="search.js"></script>
+
+ <style>
+        .items{
+            color:red ;
+        }
+   .header {
+       text-align:center ;
+       color:navy ;
+   }
+       .aboutusheader{
+           text-align:center ; 
+           font-family:sans-serif ;
+   }
+   .aboutus{
+       font-family:Montserrat ;
+       text-align:center ;
+       color:red ;
+   }
+        </style>
+        <br>
+        <br>
+        <br>
+        <br>
+<div class="header">
+<h1> Sri Sharada Engineering </h1>
+<p> # A2-Cooperative Industrial Estate ,Balanagar,Hyderabad,500037 <p>
+</div>
+<br>
+<div class="aboutusheader">
+    <h1> About US </h1>
+    </div>
+    <br>
+    <div class="aboutus">
+        <h2> We Sri Sarada Engineering are supplier of quality range of Gears and Gear Boxes, Sponge Iron & Cement Plant Spare Parts, Rollers, Screw Conveyors, Shafts, and Spring Plates.we manufacture only sponge iron spare parts for rotary kiln.and cement plants spare parts like pulley's and rollers and idlers and spring plates. We use quality material in manufacturing of our range sourced from the reliable vendors of the market. Our products confirm with the norms prescribed by the concerned authorities and do not carry flaws. We ensure long service life and optimum functionality of our range. Detail analysis over the market trends is carried out before we start the manufacturing process, in order to make sure that our products serve the clients in an appropriate manner. We are Established in 2004 </h2>
+        </div>
+        <br>
+        <div class="aboutusheader">
+    <h1>Products</h1>
+    </div>
+
+<img src="images/001.JPG" width="500px" height="400px"> 
+<img src="images/002.JPG" width="500px" height="400px"> 
+<img src="images/003.JPG" width="500px" height="400px"> 
+<img src="images/004.JPG" width="500px" height="400px"> 
+<img src="images/005.jpg" width="500px" height="400px"> 
+<img src="images/006.JPG" width="500px" height="400px"> 
+<img src="images/007.JPG" width="500px" height="400px"> 
+<img src="images/008.JPG" width="500px" height="400px"> 
+<img src="images/009.JPG" width="500px" height="400px"> 
+<img src="images/010.JPG" width="500px" height="400px"> 
+<img src="images/011.jpg" width="500px" height="400px"> 
+<img src="images/012.jpg" width="500px" height="400px"> 
+<img src="images/013.jpeg" width="500px" height="400px"> 
+<img src="images/014.jpg" width="500px" height="400px"> 
+<img src="images/015.jpg" width="500px" height="400px"> 
+<img src="images/016.jpg" width="500px" height="400px"> 
+<br>
+<br>
+<div class="footer">
+<footer><b>&#169; Copyright 2022 All Rights Reserved Sri Sarada Engineering </b></footer>
+</div>
+<br>
+<br>
+
+<style>
+    .footer{
+          
+  background-color: orange; 
+  position: center;
+ text-align:center ;
+ left:1px
+ color:black;
+    }
+    </style>
+
+</body>
+</html>
+
+<!-- Source Code of SRI SARADA ENGINEERING -->
