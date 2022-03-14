@@ -2,17 +2,27 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8">
-   < <title> About Us</title>
-    <link rel="stylesheet" href="aboutus.css">
+    <title> About Us</title>
+    <link rel="stylesheet" href="header.css">
     <!-- Boxicons CDN Link -->
-    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+<link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+<link rel="canonical" href="https://www.srisaradaengineering.ga/Contact-Us">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">  
+
+<link rel="stylesheet" href="https://code.jquery.com/jquery-3.3.1.slim.min.js">
+ <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js">  -->
+<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> -->
+<link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+ 
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
    </head>
 <body>
+
   <nav>
     <div class="navbar">
-      <i class='bx bx-menu'></i>
-      <div class="logo"><a href="/">Sri Sarada Engineering</a></div>
+      <i class='bx bx-menu'>Sri Sarada Engineering</i>
+      <div class="logo"><a href="https://www.srisaradaengineering.ga">Sri Sarada Engineering</a></div>
       <div class="nav-links">
         <div class="sidebar-logo">
           <i class='bx bx-x' ></i>
@@ -22,7 +32,7 @@
           <li><a href="/">HOME</a></li>
           <li>
             <a href="#">FAQ</a>
-            <i class='bx bxs-chevron-down htmlcss-arrow arrow  '></i>
+            <i class='bx bxs-chevron-down htmlcss-arrow arrow '></i>
             <ul class="htmlCss-sub-menu sub-menu">
               <li><a href="#">Website Down ?</a></li>
               <li><a href="#">Enquiry</a></li>
@@ -76,15 +86,47 @@
            font-family:sans-serif ;
    }
    .aboutus{
-       font-family:Montserrat ;
+       font-family:timesnewroman ;
        text-align:center ;
        color:red ;
    }
+
+   .pro{
+     display:flex ;
+      float: left;
+   }
+   .pro_text{
+       text-align:center ;
+   }
+   .team{
+       text-align:center ;
+       font-family: serif;
+   }
+       .Proprietor{
+           text-align:center;
+       }
+       
+       .clients{
+           text-align:center ;
+           font-family:Sans-Serif;
+       }
+   .companies{
+       text-align:center ;
+       color:red ;
+   }
+       .listings{
+           text-align:center ;
+       }
+   
         </style>
         <br>
         <br>
         <br>
         <br>
+        <script>
+console.log("Hi , This Code is Free to Use but you need to add a Copyright in Comments !");
+        </script>
+
 <div class="header">
 <h1> Sri Sharada Engineering </h1>
 <p> # A2-Cooperative Industrial Estate ,Balanagar,Hyderabad,500037 <p>
@@ -95,29 +137,139 @@
     </div>
     <br>
     <div class="aboutus">
-        <h2> We Sri Sarada Engineering are supplier of quality range of Gears and Gear Boxes, Sponge Iron & Cement Plant Spare Parts, Rollers, Screw Conveyors, Shafts, and Spring Plates.we manufacture only sponge iron spare parts for rotary kiln.and cement plants spare parts like pulley's and rollers and idlers and spring plates. We use quality material in manufacturing of our range sourced from the reliable vendors of the market. Our products confirm with the norms prescribed by the concerned authorities and do not carry flaws. We ensure long service life and optimum functionality of our range. Detail analysis over the market trends is carried out before we start the manufacturing process, in order to make sure that our products serve the clients in an appropriate manner. We are Established in 2004 </h2>
+        <h2> We "Sri Sarada Engineering" are supplier of quality range of Gears and Gear Boxes, Sponge Iron & Cement Plant Spare Parts, Rollers, Screw Conveyors, Shafts, and Spring Plates.we manufacture only sponge iron spare parts for rotary kiln.and cement plants spare parts like pulley's and rollers and idlers and spring plates. We use quality material in manufacturing of our range sourced from the reliable vendors of the market. Our products confirm with the norms prescribed by the concerned authorities and do not carry flaws. We ensure long service life and optimum functionality of our range. Detail analysis over the market trends is carried out before we start the manufacturing process, in order to make sure that our products serve the clients in an appropriate manner. We are Established in 2004 </h2>
         </div>
         <br>
+        <br>
+        <div class="Proprietor">
+        <h1> Proprietor</h1>
+        <br>
+        <br>
+        </div>
+        <div class="pro" >
+        <img src="images/prophoto.jpg" alt="Pro Photo" width="250" height="200">
+        </div>
+        <div class="pro_text">
+        <h3> 'Mr. E. Siva Sankar Reddy' (Proprietor) has always guided to step towards the path of success. He is known to the current market trends and formulates the policies accordingly. Owing to his efforts, we have been able to mark our presence elegantly in the market despite severe competition. </h3>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="team">
+        <h1> Our Team </h1>
+        </div>
+        <br>
+        <br>
+        <h3> We are blessed by the team of skilled and experienced professionals having excellent industrial knowledge. They are very well aware of the customer’s preferences and ensure that production is carried out accordingly. Moreover, we also put extra effort in order to make our employees competent enough to face the market competition by conducting skill enhancement programs on regular basis. Our team comprises quality analyzers, R&D experts, manufacturing experts, procurement agents, technicians, engineers and other skilled and semi-skilled staff. All these professionals put together their efforts in order to get the pre-defined goal of organization completed on time </h3>
+        
+        <br>
+        <br>
+        <div class="clients">
+                <h1> Clientele </h1>
+                </div>
+                <div class="companies"
+                 <h4>
+ Janki corp ltd. (Bellery)
+<br>
+Noble distilers &power india pvt ltd. (Bellary)
+<br>
+Shivam steel pvt. ltd. (Jarkhand)
+<br>
+Sathyam iron and steel co.pvt. ltd. (w.b)
+<br>
+Swastik steels pvt ltd. (Hospet)
+<br>
+Vjr steels ltd. (Jaggayyapet)
+<br>
+Varshanna ispat ltd. (Gandhidam)
+<br>
+Popuri steels ltd. (Bellary). 
+<br>
+Sri sai sindhu industries ltd. (Tadipatri)
+<br>
+Sai sindhu padmaja sponge iron pvt. ltd. (Anatapur)
+<br>
+Sai balagi sponge (Bellary)
+<br>
+Ramanjaneya ispst (Bellary)
+<br>
+Rav''s steel pvt. ltd. (Bellary)
+<br>
+Nutan ispat (Rayapur)
+<br>
+Rayen steels pvt. ltd. (Bellary)
+<br>
+Sajjla iron &steel pvt. ltd. (Bellary)
+<br>
+Sree bhadradri spongeiron pvt. ltd. (Khammam)
+<br>
+Vidhathasri sponge iron (Kodad)
+<br>
+Aashirwad steel &industries ltd. (Nalgonda)
+<br>
+Seshasai ispat pvt. ltd. (Hyderabad)
+<br>
+Bilasarika sponge iron (Mahaboobnagar)
+<br>
+Ganesh sponge pvt.ltd. (Orrissa)
+<br>
+Trivista steel &power pvt ltd. (Koppal)
+<br>
+Supra steel &power pvt ltd. (Bellary)
+<br>
+Hindusthan calcined metals pvt. ltd. (Bellary)
+<br>
+Agarwal sponge &energy pvt. ltd. (Bellary)
+<br>
+Vayunandhana power ltd. (Maharastra)
+<br>
+Shraddha ispat pvt. ltd. (Goa)
+<br>
+Jairaj ispat ltd. (Bellary)
+ </h4>
+ </div>
+<br>
+<br>
+ <div class="listings">
+<h1> We are Listed In </h1>
+<h4> We Accept Enquires in all Apps Listed </h4>
+ </div>
+ <div class="listings">
+ <a href="https://www.indiamart.com/srisharadaengineering/profile.html">
+<img src="images/indiamart.png" alt="indian_mart" title="india_mart_logo" > </a>
+<a href="https://www.justdial.com/jdmart/Hyderabad/Sri-Sharada-Engineering-Near-Co-Operative-Industrial-Estate-Bala-Nagar/040PXX40-XX40-100609114821-W5E1_BZDET/catalogue">
+<img src="images/justdial.png" alt="just_dial" title="just_dial_logo"  > </a>
+<a href="https://www.tradeindia.com/Seller-12955140-Sri-Sharada-Engineering/">
+<img src="images/tradeindia.png" alt="indian_mart" title="india_mart_logo" width=300 height=100 > </a>
+<a href="https://nicelocal.in/hyderabad/building/sri_sharada_engineering/">
+<img src="images/nicelocal.svg" alt="indian_mart" title="india_mart_logo" > </a>
+<a href="https://www.exportersindia.com/sri-sharada-engineering/about-us.htm">
+<img src="images/exporterindia.jpg" alt="indian_mart" title="india_mart_logo" > </a>
+
+ </div>
         <div class="aboutusheader">
     <h1>Products</h1>
     </div>
 
-<img src="images/001.JPG" width="500px" height="400px"> 
-<img src="images/002.JPG" width="500px" height="400px"> 
-<img src="images/003.JPG" width="500px" height="400px"> 
-<img src="images/004.JPG" width="500px" height="400px"> 
-<img src="images/005.jpg" width="500px" height="400px"> 
-<img src="images/006.JPG" width="500px" height="400px"> 
-<img src="images/007.JPG" width="500px" height="400px"> 
-<img src="images/008.JPG" width="500px" height="400px"> 
-<img src="images/009.JPG" width="500px" height="400px"> 
-<img src="images/010.JPG" width="500px" height="400px"> 
-<img src="images/011.jpg" width="500px" height="400px"> 
-<img src="images/012.jpg" width="500px" height="400px"> 
-<img src="images/013.jpeg" width="500px" height="400px"> 
-<img src="images/014.jpg" width="500px" height="400px"> 
-<img src="images/015.jpg" width="500px" height="400px"> 
-<img src="images/016.jpg" width="500px" height="400px"> 
+
+<img src="images/001.JPG" width="500px" height="400px"  alt=“Product” title=“Products We Manufacture”> 
+<img src="images/002.JPG" width="500px" height="400px"alt=“Product” title=“Products We Manufacture”> 
+<img src="images/003.JPG" width="500px" height="400px"alt=“Product” title=“Products We Manufacture”> 
+<img src="images/004.JPG" width="500px" height="400px"alt=“Product” title=“Products We Manufacture”> 
+<img src="images/005.jpg" width="500px" height="400px"alt=“Product” title=“Products We Manufacture”> 
+<img src="images/006.JPG" width="500px" height="400px" alt=“Product” title=“Products We Manufacture”> 
+<img src="images/007.JPG" width="500px" height="400px" alt=“Product” title=“Products We Manufacture”> 
+<img src="images/008.JPG" width="500px" height="400px" alt=“Product” title=“Products We Manufacture”> 
+<img src="images/009.JPG" width="500px" height="400px"alt=“Product” title=“Products We Manufacture” > 
+<img src="images/010.JPG" width="500px" height="400px" alt=“Product” title=“Products We Manufacture”> 
+<img src="images/011.jpg" width="500px" height="400px" alt=“Product” title=“Products We Manufacture”> 
+<img src="images/012.jpg" width="500px" height="400px" alt=“Product” title=“Products We Manufacture”> 
+<img src="images/013.jpeg" width="500px" height="400px"alt=“Product” title=“Products We Manufacture” > 
+<img src="images/014.jpg" width="500px" height="400px"alt=“Product” title=“Products We Manufacture” > 
+<img src="images/015.jpg" width="500px" height="400px"alt=“Product” title=“Products We Manufacture” > 
+<img src="images/016.jpg" width="500px" height="400px"alt=“Product” title=“Products We Manufacture”> 
 <br>
 <br>
 <div class="footer">
@@ -136,8 +288,87 @@
  color:black;
     }
     </style>
+<footer class="bg-white">
+<div class="container py-5">
+<div class="row py-4">
+<div class="col-lg-4 col-md-6 mb-4 mb-lg-0"><img src="img/logo.png" alt="" width="180" class="mb-3">
+<p class="font-italic text-muted">Sri Sarada Engineering , We are Manufacture Located in Hyderabad.</p>
+<ul class="list-inline mt-4">
+<li class="list-inline-item"><a href="#" target="_blank" title="twitter"><i class="fa fa-twitter"></i></a></li>
+<li class="list-inline-item"><a href="#" target="_blank" title="facebook"><i class="fa fa-facebook"></i></a></li>
+<li class="list-inline-item"><a href="#" target="_blank" title="instagram"><i class="fa fa-instagram"></i></a></li>
+<li class="list-inline-item"><a href="#" target="_blank" title="pinterest"><i class="fa fa-pinterest"></i></a></li>
+<li class="list-inline-item"><a href="#" target="_blank" title="vimeo"><i class="fa fa-vimeo"></i></a></li>
+</ul>
+</div>
+<div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
+<h6 class="text-uppercase font-weight-bold mb-4">Pages</h6>
+<ul class="list-unstyled mb-0">
+<li class="mb-2"><a href="https://srisaradaengineering.ga" class="text-muted">Home</a></li>
+<li class="mb-2"><a href="https://srisaradaengineering.ga/About-Us" class="text-muted">About US</a></li>
+<li class="mb-2"><a href="https://srisaradaengineering.ga/Contact-Us" class="text-muted">Contact Us</a></li>
+<li class="mb-2"><a href="https://srisaradaengineering.ga/About-Us" class="text-muted">Products</a></li>
+</ul>
+</div>
+<div class="col-lg-2 col-md-6 mb-4 mb-lg-0">
+<h6 class="text-uppercase font-weight-bold mb-4">Company</h6>
+<ul class="list-unstyled mb-0">
+<li class="mb-2"><a href="https://goo.gl/maps/ka7Zc6nXSV5vaAqA9" class="text-muted">Location</a></li>
+<li class="mb-2"><a href="https://world.srisaradaengineering.ga" class="text-muted">Visitng Hours</a></li>
+<li class="mb-2"><a href="https://world.srisaradaengineering.ga" class="text-muted">FAQ</a></li>
+<li class="mb-2"><a href="https://srisaradaengineering.ga/About-Us" class="text-muted">Our Products</a></li>
+</ul>
+</div>
+<div class="col-lg-4 col-md-6 mb-lg-0">
+<h6 class="text-uppercase font-weight-bold mb-4">Newsletter</h6>
+<p class="text-muted mb-4">Recieves Updates about our Comapany</p>
+<div class="p-1 rounded border">
+<div class="input-group">
+<input type="email" placeholder="Enter your email address" aria-describedby="button-addon1" class="form-control border-0 shadow-0">
+<div class="input-group-append">
+<button id="button-addon1" type="submit" class="btn btn-link"><i class="fa fa-paper-plane"></i></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="bg-light py-4">
+<div class="container text-center">
+<p class="text-muted mb-0 py-2">© 2022 Sri Sarada Engineering All rights reserved.</p>
+</div>
+</div>
+</footer>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'6e6c053ac9a6c94c',m:'OFG4elPkSq.1rL0cgUUuCBMjCa.0QKUZ1EYCkYXBJ3A-1646411678-0-AUCBMHneoq5EOOLbmqTo+Ms+t4I49l16F5NA+xHV/u9ofHaHgU29tdRkULO4Wz71e9mKPCA4wOb/qFA3VakT182r6XHGDkTgaxSamCfbeTumtZXjPGJyB+fvtP37GI7L1g==',s:[0xc39e832901,0x3d7a9db3f9],u:'/cdn-cgi/challenge-platform/h/g'}})();</script></body>
+<style>
+/*
+*
+* ==========================================
+* FOR DEMO PURPOSE
+* ==========================================
+*
+*/
+
+
+
+#button-addon1 {
+  color: #ffc371;
+}
+
+i {
+  color: #ffc371;
+}
+
+.form-control::placeholder {
+  font-size: 0.95rem;
+  color: #aaa;
+  font-style: italic;
+}
+
+.form-control.shadow-0:focus {
+  box-shadow: none;
+}
+</style>
 
 </body>
 </html>
-
-<!-- Source Code of SRI SARADA ENGINEERING -->
